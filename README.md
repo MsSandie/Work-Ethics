@@ -59,7 +59,8 @@ The dataset was provided as an Excel file, which was imported into a newly creat
 - From the set, employees with yearly increment greater than 5000 were only 12 in number. No currency was specified in our fictional dataset, which makes the salaries and increment a little bit unattractive.😏
 
 **PEACE OUT** ✌️
-![](Thannks.jpg)
+
+![](Thaanks.png)
 
 
 
